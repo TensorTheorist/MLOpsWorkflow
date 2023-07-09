@@ -10,5 +10,4 @@
 * Cloud managed -> requires cloud skills
 
 ## Jupyter access on a VPS (Virtual Private Server)
-* SSH passwordless access on a VPS [-AWS-]
-
+* SSH passwordless access on a VPS [AWS](https://aws.amazon.com/)
